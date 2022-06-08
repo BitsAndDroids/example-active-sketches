@@ -1,3 +1,5 @@
+//Uses Encoder library https://www.arduino.cc/reference/en/libraries/encoder/
+//Uses Bits and Droids library https://www.bitsanddroids.com/downloads
 #include <Encoder.h>
 #include <BitsAndDroidsFlightConnector.h>
 
